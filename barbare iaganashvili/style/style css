@@ -1,1 +1,128 @@
-header }
+
+h1  {
+            position: absolute;
+            width: 77px;
+            height: 24px;
+            left: 291px;
+            top: 24px;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 24px;
+            /* identical to box height */
+            text-align: justify;
+            text-transform: uppercase;
+            color: #2F2643;
+            opacity: 0.8;
+        }
+h2 {
+            position: absolute;
+            width: 77px;
+            height: 24px;
+            left: 291px;
+            top: 24px;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 24px;
+            /* identical to box height */
+            text-align: justify;
+            text-transform: uppercase;
+            color: #2F2643;
+            opacity: 0.8;
+        }
+h3 {
+            position: absolute;
+            width: 63px;
+            height: 24px;
+            left: 421px;
+            top: 24px;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 24px;
+            /* identical to box height */
+            text-align: justify;
+            text-transform: uppercase;
+            color: #2F2643;
+            opacity: 0.8;
+        }
+h4 {
+            position: absolute;
+            width: 43px;
+            height: 24px;
+            left: 540px;
+            top: 24px;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 24px;
+            /* identical to box height */
+            text-align: justify;
+            text-transform: uppercase;
+            color: #2F2643;
+            opacity: 0.8;
+        }
+h5 {
+            position: absolute;
+            width: 43px;
+            height: 24px;
+            left: 540px;
+            top: 24px;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 24px;
+            /* identical to box height */
+            text-align: justify;
+            text-transform: uppercase;
+            color: #2F2643;
+            opacity: 0.8;
+        }
+h6 {
+            position: absolute;
+            width: 42px;
+            height: 24px;
+            left: 774px;
+            top: 24px;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 24px;
+            /* identical to box height */
+            text-align: justify;
+            text-transform: uppercase;
+            color: #2F2643;
+            opacity: 0.8;
+        }
+#login {
+position: absolute;
+width: 54px;
+height: 24px;
+left: 1015px;
+top: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: justify;
+letter-spacing: 0.02em;
+text-transform: uppercase;
+
+color: #2F2643;
+
+opacity: 0.8;
+}
+        
+        
+        

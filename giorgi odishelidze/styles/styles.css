@@ -1,4 +1,29 @@
 .features{
-    background-color: gray;
-    color: lightgray;
+    display: inline-block;
+    background-color: lightgrey;
+    color: white;
+}
+
+.pricing{
+    display: inline-block;
+    background-color: lightgrey;
+    color: white;
+}
+
+.blog{
+    display: inline-block;
+    background-color: lightgrey;
+    color: white;
+}
+
+.about-us{
+    display: inline-block;
+    background-color: lightgrey;
+    color: white;
+}
+
+.faqs{
+    display: inline-block;
+    background-color: lightgrey;
+    color: white;
 }
