@@ -1,0 +1,261 @@
+header{
+    max-width: 100%;
+    height: 72px;
+    box-shadow:  1px 1px 12px #0000003b;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    position: sticky;
+    top: 0px;
+}
+.header-wrapper{
+    max-width: 1336px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.header-wrapper div{
+    display: flex;
+    align-items: center;
+   
+}
+ul{
+    display: flex;
+    width: 712px;
+}
+.logo{
+    width: 130px;
+    height: 36px;
+ 
+}
+nav{
+    margin-left: 57px;
+}
+.header-menu ul li{
+    font-family: poppins;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 0 53px;
+}
+.but1{
+    font-family: "poppins";
+    text-transform: uppercase;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    margin-right: 35px;
+    padding: 10px 18px;
+    text-transform: uppercase;
+}
+ .but2{
+    font-family: "poppins";
+    text-transform: uppercase;
+    font-size: 16px;
+    border:4px solid #FF707A;
+    background-color: #FF707A;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+    padding: 10px 18px;
+    text-transform: uppercase;
+ }
+ h1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+    line-height:72px ;
+
+ }
+ a{
+    text-decoration: none;
+ }
+.heading-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading-section h4{
+    font-size: 21px;
+    font-family: "poppins";
+    line-height: 22px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 40px;
+}
+.join-button{
+    color: white;
+    border:4px solid #FF707A;
+    background-color: #FF707A;
+    border-radius: 4px;
+    padding: 16px 24px;
+    font-weight: 700;
+
+}
+.heading-section p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    color: #534a63;
+}
+.slidius{
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    font-weight: 700;
+    line-height:54px ;
+    margin-top: 46px;
+}
+.slide.nav{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.slide-nav-bullet{
+    width: 5px;
+    height: 5px;
+}
+.slidius1{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height:54px ;
+    
+}
+.card-wrapper{
+  display: flex;
+ 
+}
+.card{
+ width: 320px;
+ height: 120px;
+ background-color: aliceblue;
+ margin: 0 32px;
+ border-radius: 12px;
+ border-top: 6px solid #FF707A;
+ display: flex;
+ justify-content: space-around;
+ box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.261);
+}
+.card1{
+    width: 320px;
+ height: 120px;
+ background-color: aliceblue;
+ margin: 0 32px;
+ border-radius: 12px;
+ border-top: 6px solid #F5B118;;
+ display: flex;
+ justify-content: space-around;
+ box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.261);
+}
+.card1 p{
+    font-size: 16px;
+    margin-top: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 25px;
+    margin-top: 3px;
+
+}
+.card2{
+    width: 320px;
+ height: 120px;
+ background-color: aliceblue;
+ margin: 0 32px;
+ border-radius: 12px;
+ border-top: 6px solid #00AEDC;
+ display: flex;
+ justify-content: space-around;
+ box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.261);
+}
+.card2 p{
+    font-size: 16px;
+    margin-top: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 25px;
+    margin-top: 3px;
+}
+.card p{
+    font-size: 16px;
+    margin-top: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 25px;
+    margin-top: 3px;
+}
+.card p span{
+    margin-top: 24px;
+    font-size: 16;
+    line-height: 25px;
+    margin-top: 3px;
+    color: #F5B118;
+}
+.number3{
+    margin-top: 5px;
+    color: #00AEDC;
+}
+
+
+
+.card .number{
+    font-size: 45px;
+    color:#FF707A ;
+
+
+}
+ .number{
+    font-size: 45px;
+    color: #FF707A;
+    font-weight: 800;
+ }
+ .number2{
+    font-size: 45px;
+    color: #F5B118;
+    margin-top: 10px;
+    font-weight:800 ;
+ }
+ .number3{
+    font-size: 45px;
+    color: #F5B118;
+    font-weight:800 ;
+ }
+ 
+
+ .big-div{
+    column-count: 3;
+    background-color: #F9F9F9;
+    column-gap: 25px;
+    margin-left: 160px;
+    
+ }
+ .big-div div h6{
+    margin-top: 24px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 3px;
+    font-weight: 600;
+    
+    
+ }
+ .paragraph1{
+    font-size: 16px;
+    line-break: auto;
+    font-weight: 700;
+    font-size: 20px;
+
+ }
+.post-type-wrapper h3{
+    text-align: center;
+    line-height: 54px;
+    font-weight: 700;
+    color: #190E2F;
+   font-size: 36px;
+
+}

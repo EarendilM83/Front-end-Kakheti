@@ -1,0 +1,42 @@
+.section3{
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.rigthsection3{
+
+    width: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: right;
+    background-color: #ff707a;
+
+}
+
+.leftsection3{
+
+    width: 50%;
+    float: left;
+
+}
+
+
+.earning{
+
+    display: flex;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    background-color: #ff707a;
+    border-radius: 5px;
+
+
+    &:hover{
+
+        color: $myColor;
+
+    }
+
+}

@@ -103,7 +103,10 @@ header {
   font-size: 35px;
 }
 .article2 {
-  column-count: 3;
+  display: flex;
+  justify-content: space-between;
+  width: 1800px;
+  margin-top: 150px;
 }
 .subarticle2 {
   width: 500px;
