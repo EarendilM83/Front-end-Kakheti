@@ -1,0 +1,117 @@
+@media only screen and (max-width: 600px) {
+    body {
+      width: 390px;
+    }
+    .navigation-list{
+        width: 375px;
+        display: none;
+    }
+    .heading1, .heading2{
+        width: 350px;
+        max-width: 370px;
+        
+    }
+    .img2{
+        width: 375px;
+    }
+    .section1{
+        height: 250px;
+        padding-bottom: 100px;
+        gap: 50px;
+        padding-left: 0;
+        flex-direction: column;
+        padding-left: 60px;
+    }
+    .mini-graph3{
+       height: max-content;
+    }
+    .first-links{
+        display: none;
+    }
+    .section2-graph1{
+        margin-top: 550px;
+    }
+    
+    .section2-graph2,  .section2-graph3, .section2-graph4, .section2-graph5, .section2-graph6, .section2-graph7, .section2-graph8, .section2-graph9{
+        display: none;
+    }
+    .heading2{
+        margin-top: 200px;
+        text-align: center;
+    }
+    .link4{
+        position: absolute;
+        top: 1900px;
+        left: -65px;
+    }
+    .section3-div{
+        flex-direction: column;
+    }
+    .section3-div-img{
+        width: 300px;
+    }
+    .section3-div2{
+        flex-direction: column;
+    }
+    .section3-div2-list{
+        width: 300px;
+    }
+    .section3-div-heading{
+        width: 300px;
+        text-align: center;
+    }
+    .section3-div2-list{
+        width: 300px;
+        margin: 0;
+        padding: 0;
+    }
+    .section3-main-header{
+        text-align: center;
+        width: 300px;
+        margin-top: 100px;
+    }
+    .section3-comment2{
+        margin-top: 150px;
+        margin-left: -90px;
+        
+    }
+    .section3-comment3{
+        display: none;
+      
+    }
+    .section3-comment{
+        display: none;
+    }
+    .photo-div, .mini-circle2, .gray-circle{
+        display: none;
+    }
+    .section5{
+        margin-top: 100px;
+        margin-left: -158px;
+        padding-left: 0;
+        width: 380px;
+    }
+    .section5-div1-link{
+        margin-top: 50px;
+        margin-left: -25px;
+    }
+    .section3-main-header{
+        margin-top: 150px;
+        margin-left: -50px;
+    }
+    .blue-circle{
+        width: 150px;
+        height: 150px;
+        margin-top: 70px;
+        margin-left: -60px;
+    }
+    .photo{
+        width: 130px;
+        height: 130px;
+        margin-left: 14px;
+    }
+    .mini-circle{
+        margin-top: 330px;
+    }
+}
+  
