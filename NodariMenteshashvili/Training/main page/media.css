@@ -113,5 +113,12 @@
     .mini-circle{
         margin-top: 330px;
     }
+    .footer-main-div{
+        display: flex;
+        flex-direction: column;
+    }
+    .footer{
+        height: max-content
+    }
 }
   
